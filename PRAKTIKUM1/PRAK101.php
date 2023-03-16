@@ -8,8 +8,9 @@ echo "<br>";
 
 ECHO "Bachrul Uluum";
 
-printf("<br>Hasilnya adalah %.4f", $hasil);
+printf("<br>Hasilnya adalah %.4f m3  | hasil kedua %.2f", $hasil, 4.2);
 
+echo "<BR>";
 $array1 = ["nama1", "nama2", "nama3"]; // indexed array
 
 echo $array1[2];
